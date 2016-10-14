@@ -1,0 +1,6 @@
+{
+  "name": "Python 初学安装使用",
+  "tagline": "就一CSDN博客",
+  "body": "### Python简介.\r\n第一篇blog,浅谈下python。\r\n\r\nPython作为一开源工具，备受码农喜爱。但在数据分析、数据挖掘方面也存在很大的优势！Python跨平台的代码共享也是其一大优势。但是对于初学着来说，在版本确定后，安装就显的尤其重要。\r\n\r\n### 版本选择\r\n目前Python有3.x与2.7区分。之前是3.x的兼容性不后。据说现在已经完善的不错了。两个版本根据个人喜好使用。\r\n### 安装\r\n网上python的安装教程很多，就不在赘述。推荐使用python(x,y)来安装。可以省略很多麻烦。其中环境变量配置、pip等包已经直接安装完毕。常用的一些numpy包也包含其中。软件下载执行百度。里面含有了ipython使用。也是很方便的python编程工具。下载链接，自行百度。\r\n\r\nps:python(x,y)使用的是python2.7\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
